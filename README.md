@@ -11,7 +11,7 @@ This project utilizes an STM32G030F6P6 microcontroller to control a 2-DOF motor 
 - **Real-time UART Control**: Allows external updates to motor positions using UART for adaptable control.
 - **Bitwise Manipulation for Motor Control**: Manages motor rotation using bitwise shifts and masks to streamline resource use.
 
-## PCB Design Overview
+## PCB Overview
 
 - **MCU**: The board is powered by the STM32G030F6P6 microcontroller, which provides EXTI (External Interrupt) and DMA (Direct Memory Access) functionalities critical for handling sensor inputs and efficient motor control.
 - **Motor Driver and Stepper Motors**: The system drives two 28BYJ-48 unipolar stepper motors, each controlled via the ULN2003AN motor driver. 
