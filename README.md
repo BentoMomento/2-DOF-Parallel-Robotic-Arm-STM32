@@ -26,7 +26,7 @@ This project utilizes an STM32G030F6P6 microcontroller to control a 2-DOF motor 
   - SWD (Serial Wire Debug) pins are included for in-circuit debugging, along with UART TX and RX pins for data communication and logging.
 - **Mechanical Integration**: 
   - The board measures 43mm by 58mm and includes four M3 mounting holes, allowing secure attachment to a dedicated surface for stability during motor operations.
-
+![PCB 3D view](https://github.com/user-attachments/assets/810b3e7d-5bea-4521-8a57-6d1c307e09f2)
 ## Core Embedded System Components and Functionality
 
 1. **Motor Initialization and Setup**  
