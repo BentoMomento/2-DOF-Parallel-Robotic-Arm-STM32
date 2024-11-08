@@ -1,7 +1,6 @@
 # 2-DOF-Parallel-Robotic-Arm
 
-This project implements an 4 layer PCB with built in Dual degree of freedom parallel robotic arm motor system with STM32G030F6P6.
-
+This project implements an 4 layer PCB with built in Dual degree of freedom parallel robotic arm motor system with STM32G030F6P6.  
 [Click here to visit the hardware component of this project](https://github.com/BentoMomento/2-DOF-Parallel-Robotic-Arm-PCB) 
 
 ## Project Overview
