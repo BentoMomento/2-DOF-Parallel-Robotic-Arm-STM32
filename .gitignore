@@ -1,0 +1,11 @@
+/build/ 
+/Debug/ 
+/Release/ 
+*.bin 
+*.hex 
+*.elf 
+.idea/ 
+.vscode/ 
+.project 
+.cproject 
+.settings/ 
