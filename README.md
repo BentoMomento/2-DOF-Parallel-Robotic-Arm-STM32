@@ -12,7 +12,7 @@ This project utilizes an STM32G030F6P6 microcontroller to control a 2-DOF motor 
 - **Real-time UART Control**: Allows external updates to motor positions using UART for adaptable control.
 - **Bitwise Manipulation for Motor Control**: Manages motor rotation using bitwise shifts and masks to streamline resource use.
 
-## mathematical Diagram
+## Mathematical Diagram
 
 ![mathematical_diagram](https://github.com/user-attachments/assets/0dfd0a13-7129-4418-88e6-264f1dda7995)
 
